@@ -24,7 +24,7 @@ A comprehensive web application featuring fitness tracking, task management, and
 ## 🚀 Live Demo
 
 - **GitHub Repository**: [View Source Code](https://github.com/TshegoB4/Fitpro-2)
-- **Live Application**: [https://tshegoB4.github.io/Fitpro-2](https://tshegoB4.github.io/Fitpro-2)
+- **Live Application**: Coming soon (deploy with GitHub Pages or your preferred platform)
 
 ## 🛠️ Technologies Used
 
@@ -155,4 +155,3 @@ For questions or support, please reach out via:
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
 ---
-
